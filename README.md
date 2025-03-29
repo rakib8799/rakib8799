@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Mehedi Khan Rakib <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Backend+Focused+Software+Engineer;Expert+in+Laravel%2C+Vue.js%2C+SaaS%2C+API+Development%2C+and+Performance+Optimization&center=true&width=500&height=50" alt="mkrakib">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Backend+Engineer;Expert+in+Laravel%2C+Vue.js%2C+API+Development%2C+SaaS%2C+Performance+Optimization&center=true&width=500&height=50" alt="mkrakib">
   </a>
 </p>
 📧 [mkrakib328@gmail.com](mailto:mkrakib328@gmail.com) | 📞 +8801332995033 | 🌐 [mkrakib](https://github.com/mkrakib) | 💻 [rakib8799](https://github.com/rakib8799) | 📍 Mymensingh, Bangladesh
