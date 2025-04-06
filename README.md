@@ -7,7 +7,7 @@
 
 📧 <a href="mailto:mkrakib328@gmail.com">mkrakib328@gmail.com</a> |
 📞 <a href="tel:+8801332995033">+8801332995033</a> |
-🌐 <a href="https://github.com/mkrakib" target="_blank">mkrakib</a> |
+🌐 <a href="https://www.linkedin.com/in/mehedi-khan-mkr/" target="_blank">mkrakib</a> |
 💻 <a href="https://github.com/rakib8799" target="_blank">rakib8799</a> |
 📍 Mymensingh, Bangladesh
 ---
