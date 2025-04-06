@@ -4,8 +4,12 @@
     <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+focused+Software+Engineer;Expert+in+Laravel%2C+Vue.js%2C+Inertia.js;Expert+in+SaaS%2C+API+Development;Expert+in+Performance+Optimization&center=true&width=500&height=50" alt="mkrakib">
   </a>
 </p>
-📧 [mkrakib328@gmail.com](mailto:mkrakib328@gmail.com) | 📞 +8801332995033 | 🌐 [mkrakib](https://github.com/mkrakib) | 💻 [rakib8799](https://github.com/rakib8799) | 📍 Mymensingh, Bangladesh
 
+📧 <a href="mailto:mkrakib328@gmail.com">mkrakib328@gmail.com</a> |
+📞 <a href="tel:+8801332995033">+8801332995033</a> |
+🌐 <a href="https://github.com/mkrakib" target="_blank">mkrakib</a> |
+💻 <a href="https://github.com/rakib8799" target="_blank">rakib8799</a> |
+📍 Mymensingh, Bangladesh
 ---
 
 ## 💼 Professional Summary
