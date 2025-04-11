@@ -13,83 +13,73 @@
 
 ---
 
-## 💼 Professional Summary
+### 🧠 Professional Summary
 
-I am a **Backend Software Engineer** with **2 years of experience** in **Laravel** and **Vue.js**, specializing in building **scalable SaaS applications**, API development, and **performance optimization**. I am passionate about solving complex problems, improving backend performance, and implementing efficient solutions in dynamic, fast-paced environments.
-
----
-
-## 🛠️ Skills & Technologies
-
-### **Backend:**
-- **Laravel, PHP**, **Eloquent ORM**, **Middleware**, **Service Providers**
-- **API Development (RESTful)**, **JWT**, **OAuth2**
-- **MySQL**, **PostgreSQL**, **Redis**, **Caching Strategies (Redis, Memcached)**
-- **Job Processing**, **Queues**, **Laravel Horizon**, **RabbitMQ**
-
-### **Frontend:**
-- **Vue.js**, **Inertia.js**, **Tailwind CSS**, **Bootstrap**
-- **State Management (Pinia, Vuex)**
-
-### **DevOps:**
-- **Git**, **GitHub**, **GitLab**, **Docker**, **CI/CD (GitHub Actions, GitLab CI)**
-- **Version Control (Git Flow)**, **Postman**
-
-### **Performance Optimization:**
-- **Query Optimization**, **Eager/Lazy Loading**, **Performance Profiling**
-
-### **Others:**
-- **Third-Party Integrations**: Stripe, PayPal, Twilio
-- **API Documentation**: Swagger, Postman
+Backend Software Engineer with 2+ years of experience in Laravel and Vue.js, specializing in SaaS, API development, and performance optimization. Proven ability to improve system performance by 40% through database optimization and caching. Skilled in building scalable, secure solutions and collaborating effectively in fast-paced environments.
 
 ---
 
-## 💼 Work Experience
+### 🚀 Skills & Technologies
 
-### **Software Engineer (Laravel & Vue.js)**
-📌 **Nonditosoft | July 2022 – Present**
+**Backend:**  
+Laravel (API-focused), PHP, Eloquent ORM, Middleware, RESTful API Design, Queues & Jobs, Laravel Horizon, Spatie Roles & Permissions
 
-- Developed SaaS applications including **MUHURI (Gher-Management SaaS)**, **HRBEE-HRM**, and **BodyByPori (eCommerce)**.
-- Built and optimized **Laravel APIs**, improving database performance by **40%**.
-- Implemented **role-based access control (RBAC)** with **Laravel Sanctum** and **Spatie Permissions**.
-- Integrated third-party services like **Stripe**, **PayPal**, and **Twilio**.
-- Led **CI/CD automation** using **GitHub Actions**, enhancing deployment efficiency and reducing manual intervention.
+**Database & Caching:**  
+MySQL, Redis (Caching, Queues), Query Optimization, Eager/Lazy Loading
+
+**Authentication & Security:**  
+Sanctum, JWT, OAuth2
+
+**Architecture:**  
+SaaS, Multi-Tenancy
+
+**DevOps & Tools:**  
+Git, GitHub Actions (CI/CD), Docker (basic), Postman, Jira, Bitbucket, Slack
+
+**Integrations:**  
+Stripe, Bkash, PayPal, Twilio, SendGrid, BulkSMSBD
+
+**Frontend:**  
+Vue.js, Inertia.js, Tailwind CSS, Bootstrap
+
+---
+
+### 💼 Work Experience
+
+**Software Engineer (Laravel & Vue.js)**  
+*Nonditosoft* | *March 2023 – Present*  
+- Developed multi-tenant SaaS platforms (Muhuri, HRBEE-HRM) and Magento-based systems (BodyByPori) focused on scalability and performance.  
+- Optimized Laravel RESTful APIs, boosting query performance by 40% with caching, eager loading, and query profiling.  
+- Implemented RBAC with Laravel Sanctum and Spatie Permissions for secure user management.  
+- Automated CI/CD pipelines with GitHub Actions, reducing deployment time by 30%.
 
 ---
 
 ## 🚀 Project Highlights
 
-### **MUHURI (Gher-Management SaaS)**
-📌 **Technologies**: Laravel, Vue.js, MySQL  
-- Developed **role-based dashboards** for managing aquaculture farms.
-- Built **dynamic reporting** features and automated notifications for scheduled activities.
-
-### **HRBEE-HRM (Human Resource Management System)**
-📌 **Technologies**: Laravel, Vue.js, PostgreSQL  
-- Designed **employee management** and **attendance tracking** systems.
-- Developed **leave workflows** with manager approvals and integrated **automated payroll**.
-
-### **BodyByPori (Magento eCommerce Enhancements)**
-📌 **Technologies**: PHP, Laravel, MySQL  
-- Improved **UI/UX** and integrated **payment gateways** and third-party APIs.
-- Enhanced **order processing**, reducing checkout failures by **30%**.
-
+### **Multi-Tenant SaaS Engineering:**
+- Designed and developed multi-tenant SaaS applications (Muhuri, HRBEE-HRM) with isolated databases per client, enhancing scalability and security.
+### **Modular Backend Design:**
+- Built reusable backend modules for Inventory, Order Management, Attendance, and Leave Management using service-based architecture and repository patterns.
+### **Subscription & Feature Management:**
+- Designed dynamic subscription systems with role-based access and real-time feature synchronization from central admin to company panels, ensuring flexible and efficient feature management.
+### **API & Security:**
+- Developed secure and scalable APIs with JWT/OAuth2 authentication, ensuring efficient role management, data security, and performance optimization through query profiling and caching (Redis).
 ---
 
 ## 🌟 Soft Skills
 
-- **Team Collaboration**: Works effectively with cross-functional teams (frontend, DevOps, designers).
-- **Problem-Solving**: Expertise in troubleshooting, debugging, and optimizing code.
-- **Communication**: Capable of explaining complex concepts to non-technical stakeholders.
-- **Adaptability**: Quick to learn new technologies and adjust to changing requirements.
-- **Leadership**: Leads projects, mentors junior developers, and tackles technical challenges.
-
+- **Problem-Solving & Debugging:** Strong analytical skills focused on backend performance optimization and efficient issue resolution.
+- **Collaboration:** Skilled at collaborating with cross-functional teams.
+- **Leadership & Mentorship:** Actively mentoring junior developers and leading projects to successful completion within deadlines.
+- **Adaptability:** Quick to learn new technologies and adjust to changing requirements in a dynamic environment.
+- **Communication:** Able to explain complex technical concepts to non-technical stakeholders and team members.
 ---
 
 ## 🎓 Education
 
 🎓 **Bachelor’s in Computer Science & Engineering**  
-📌 **Jatiya Kabi Kazi Nazrul Islam University | 2024**
+📌 Jatiya Kabi Kazi Nazrul Islam University | Graduation Year: 2023
 
 ---
 
