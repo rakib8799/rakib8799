@@ -15,56 +15,86 @@
 
 ### 🧠 Professional Summary
 
-Backend Software Engineer with 2+ years of experience in Laravel and Vue.js, specializing in SaaS, API development, and performance optimization. Proven ability to improve system performance by 40% through database optimization and caching. Skilled in building scalable, secure solutions and collaborating effectively in fast-paced environments.
+Backend Software Engineer with 2+ years of experience in Laravel, Vue.js and Inertia.js, focused on SaaS, API
+development, and system optimization. Proven track record in building scalable, secure applications and enhancing
+performance through efficient backend architecture.
 
 ---
 
 ### 🚀 Skills & Technologies
 
-**Backend:**  
-Laravel (API-focused), PHP, Eloquent ORM, Middleware, RESTful API Design, Queues & Jobs, Laravel Horizon, Spatie Roles & Permissions
+**Backend Development:**  
+PHP, Laravel, OOP, MVC architecture, RESTful API Design, Eloquent ORM, Middleware, Queues & Jobs, Laravel Horizon, Spatie Roles & Permissions
 
 **Database & Caching:**  
-MySQL, Redis (Caching, Queues), Query Optimization, Eager/Lazy Loading
+MySQL, Redis (caching, queues), Query Optimization, Eager & Lazy Loading
 
 **Authentication & Security:**  
-Sanctum, JWT, OAuth2
+Laravel Sanctum, Breeze, JWT, OAuth2, Passport
 
-**Architecture:**  
-SaaS, Multi-Tenancy
+**Software Architecture:**  
+SaaS, Multi-Tenant Applications
 
 **DevOps & Tools:**  
 Git, GitHub Actions (CI/CD), Docker (basic), Postman, Jira, Bitbucket, Slack
 
-**Integrations:**  
-Stripe, Bkash, PayPal, Twilio, SendGrid, BulkSMSBD
+**Third-Party Integrations:**  
+Stripe, PayPal , Bkash, SendGrid, Twilio, BulkSMSBD
 
-**Frontend:**  
+**Frontend Technologies:**  
 Vue.js, Inertia.js, Tailwind CSS, Bootstrap
 
 ---
 
 ### 💼 Work Experience
 
-**Software Engineer (Laravel & Vue.js)**  
-*Nonditosoft* | *March 2023 – Present*  
-- Developed multi-tenant SaaS platforms (Muhuri, HRBEE-HRM) and Magento-based systems (BodyByPori) focused on scalability and performance.  
-- Optimized Laravel RESTful APIs, boosting query performance by 40% with caching, eager loading, and query profiling.  
-- Implemented RBAC with Laravel Sanctum and Spatie Permissions for secure user management.  
-- Automated CI/CD pipelines with GitHub Actions, reducing deployment time by 30%.
+**Junior Software Engineer**  
+*Nonditosoft – Remote* | *Aug 2024 – Present*  
+- Building multi-tenant SaaS platforms using Laravel, Vue.js, and Inertia.js.
+- Developing RESTful APIs, integrating Sanctum-based authentication, and optimizing Redis queues.
+- Contributed to the eCommerce module on the Magento-based BodyByPori project.
+
+**PHP Laravel Intern**
+*Nonditosoft – Remote* | *Apr 2024 – Jul 2024*
+- Assisted in backend module development, debugging, and third-party integrations.
+- Worked on admin dashboards and optimized multi-tenant logic.
+
+**Web Developer (Contract)**
+*Australian Multicultural Community Centre (AMCC) – Remote* | *Mar 2024*
+- Delivered a Laravel-based website with dynamic form generation and admin features.
+
+**Web Developer (Contract)**
+*Arfan Family’s Smiling Baby Foundation (AFSBF) – Remote* | *Nov 2023 – Feb 2024*
+- Developed a Laravel donation platform with secure transaction handling.
+
+**Web Developer (Contract)**
+*Jatiya Kabi Kazi Nazrul Islam University – Remote* | *Mar 2023 – Oct 2023*
+- Delivered two departmental conference sites for Science and Arts faculties.
+- This was so helpful to bring foreign speakers and local members in one place.
 
 ---
 
 ## 🚀 Project Highlights
 
-### **Multi-Tenant SaaS Engineering:**
-- Designed and developed multi-tenant SaaS applications (Muhuri, HRBEE-HRM) with isolated databases per client, enhancing scalability and security.
-### **Modular Backend Design:**
-- Built reusable backend modules for Inventory, Order Management, Attendance, and Leave Management using service-based architecture and repository patterns.
-### **Subscription & Feature Management:**
-- Designed dynamic subscription systems with role-based access and real-time feature synchronization from central admin to company panels, ensuring flexible and efficient feature management.
-### **API & Security:**
-- Developed secure and scalable APIs with JWT/OAuth2 authentication, ensuring efficient role management, data security, and performance optimization through query profiling and caching (Redis).
+### **Muhuri (Multi-Tenant SaaS System):**
+- Developed a scalable automation suite across 3 dedicated services: muhuri-tenant, muhuri-central-
+admin, and muhuri-web.
+- Integrated Redis, Horizon, and modular role-based access control, implemented payment gateways (Bkash),
+integrated sms notification (BulkSMSBD), used translation feature.
+### **HRM (Multi-Tenant SaaS System):**
+- Built and managed a complete HRM suite spanning 4 systems: hrm-tenant, hrm-central-admin, hrbee-hrm, and hrbee.
+- Implemented chart, calendar, employee attendance, and leave request system, authentication, and CI/CD
+workflows, used translation feature.
+### **BodyByPori (Magento-based):**
+- Contributed to the development and maintenance of an e-commerce platform using Magento.
+- Focused on frontend enhancements, bug fixes, and performance optimization.
+### **Charity Platforms – AFSBF & AMCC:**
+- Developed platforms with secure forms, donation modules, and email notification systems, and integrated
+payment methods like Stripe and PayPal.
+### **Nazrul Institute Website:**
+- Created a website for Nazrul Institute at JKKNIU with content display and archival features.
+Conference Portals
+- Developed conference registration platforms for Science (Site) and Arts (Code Site) faculties at JKKNIU.
 ---
 
 ## 🌟 Soft Skills
