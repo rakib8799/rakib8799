@@ -94,7 +94,7 @@ payment methods like Stripe and PayPal.
 ### **Nazrul Institute Website:**
 - Created a website for Nazrul Institute at JKKNIU with content display and archival features.
 Conference Portals
-- Developed conference registration platforms for Science (Site) and Arts (Code Site) faculties at JKKNIU.
+- Developed conference registration platforms for Science and Arts faculties at JKKNIU.
 ---
 
 ## 🌟 Soft Skills
@@ -123,7 +123,7 @@ Conference Portals
 ## 📈 GitHub Stats
 
 ![Rakib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakib8799&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
-![Rakib's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakib8799&langs_count=10&layout=compact&theme=radical)
+![Rakib's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakib8799&langs_count=10&layout=compact&theme=radical&v=1)
 
 ---
 
