@@ -124,22 +124,10 @@ Conference Portals
 
 ### 🚀 My GitHub Stats:
 ![Rakib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakib8799&show_icons=true&count_private=true&hide=prs&theme=radical&v=1)
-
-### 📚 Top Languages:
 ![Rakib's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakib8799&langs_count=10&layout=compact&theme=radical&v=1)
 
 ### 🏆 Achievements:
 ![Rakib's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=rakib8799&theme=radical)
-
-### 📅 Contribution Graph:
-![Rakib's Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=rakib8799&theme=radical&v=1)
-
----
-
-## 📂 Projects
-
-1. **[Project 1](link-to-project)**: A brief description and technologies used.
-2. **[Project 2](link-to-project)**: A brief description and technologies used.
 
 ---
 
