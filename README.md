@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mehedi Khan Rakib <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Software+Engineer;Expert+in+Laravel+12,+SaaS+&+APIs;Experienced+in+Performance+Optimization&center=true&width=500&height=50" alt="mkrakib">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Expert+in+Laravel,+SaaS+&+APIs;Experienced+in+Performance+Optimization&center=true&width=500&height=50" alt="mkrakib">
   </a>
 </p>
 
