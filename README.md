@@ -5,11 +5,7 @@
   </a>
 </p>
 
-📧 <a href="mailto:mkrakib328@gmail.com">mkrakib328@gmail.com</a> |  
-📞 <a href="tel:+8801332995033">+8801332995033</a> |  
-🌐 <a href="https://www.linkedin.com/in/mehedi-khan-mkr/">LinkedIn</a> |  
-💻 <a href="https://github.com/rakib8799">GitHub</a> |  
-📍 Mymensingh, Bangladesh
+📧 <a href="mailto:mkrakib328@gmail.com">mkrakib328@gmail.com</a> | 📞 <a href="tel:+8801332995033">+8801332995033</a> | 🌐 <a href="https://www.linkedin.com/in/mehedi-khan-mkr/">LinkedIn</a> | 💻 <a href="https://github.com/rakib8799">GitHub</a> | 📍 Mymensingh, Bangladesh
 
 ---
 
