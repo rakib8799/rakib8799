@@ -11,7 +11,7 @@
 
 ### 🧠 Professional Summary
 
-Backend Engineer with 3+ years of experience building scalable Laravel systems and high-performance APIs handling thousands of daily requests. Skilled in system design, performance optimization, and designing reliable backend services for fintech and SaaS platforms.
+Backend Engineer with 3+ years of experience building scalable Laravel applications and high-performance APIs handling thousands of daily requests. Specialized in system design, performance optimization, and developing reliable backend services for fintech and SaaS platforms.
 
 ---
 
@@ -37,36 +37,58 @@ Backend Engineer with 3+ years of experience building scalable Laravel systems a
 
 **Backend Software Engineer** — TDevs | Oct 2025 – Present
 - Designed and optimized REST APIs handling ~3K–10K+ daily requests
-- Reduced response time from ~800ms to ~250–350ms using query optimization, indexing, and Redis caching
-- Fixed N+1 query issues and improved database efficiency
-- Implemented queue-based asynchronous processing for heavy tasks (notifications, reports)
-- Improved system performance under increasing traffic using optimized queries and caching strategies
+- Reduced response time from ~800ms to ~250–350ms using query optimization, indexing, and
+Redis caching
+- Resolved N+1 query issues and enhanced overall database efficiency
+- Implemented queue-based asynchronous processing for heavy tasks (notifications, reporting)
+- Enhanced system performance under increasing traffic using optimized queries and caching
+strategies
 - Secured APIs using authentication, authorization, and rate limiting
+- Ensured data consistency and reliability in high-transaction financial operations
 
-Projects:
--	Digibank (Fintech): Built secure transaction logic with validation, consistency checks, and RBAC
--	Hyiprio: Designed scalable API architecture with optimized data flow
--	Orvina: Developed loan management features including loan eligibility criteria, circle-based lending, and investment workflows
--	Trustep: Integrated AI features using asynchronous backend processing
+Selected Work
+-	Digibank (Fintech): Engineered secure transaction logic with validation, consistency checks,
+and RBAC
+- Hyiprio: Designed scalable API architecture with optimized data flow
+- Orvina: Developed loan management system with eligibility criteria, circle-based lending logic,
+and structured investment workflows
+- Trustep: Integrated AI-driven features using asynchronous backend processing 
   
 **Software Engineer** — Nonditosoft | Sep 2024 – Sep 2025
 -	Built multi-tenant SaaS systems with database isolation and scalable architecture
--	Implemented Redis queues and job batching for background processing
--	Improved system throughput by ~25% through asynchronous processing
+- Implemented Redis queues and job batching for background processing
+- Increased system throughput by ~25% through asynchronous processing 
+
+Selected Work
+-	Muhuri (Multi-Tenant SaaS): Developed tenant and central-admin architecture with RBAC,
+Redis (Horizon), bKash payment integration, SMS notifications, and multilingual support;
+improved task processing by ~30% through queue optimization
+- HRM SaaS: Built employee attendance, leave management, dashboards, and calendar
+modules with authentication and CI/CD workflows 
  
 **Junior Software Engineer** — Nonditosoft | Aug 2023 – Aug 2024
--	Worked on production eCommerce system serving real users
--	Optimized database queries and resolved performance bottlenecks
--	Improved system stability by reducing unnecessary data processing
+-	Worked on production eCommerce systems serving real users
+- Optimized database queries and resolved performance bottlenecks
+- Improved system stability by reducing unnecessary data processing 
 
+Selected Work
+-	BodyByPori (Magento eCommerce): Implemented frontend enhancements, bug fixes, and
+performance improvements
+- Charity Platforms (AFSBF, AMCC): Built secure donation systems with Stripe and PayPal
+integration and automated email notifications
+- Nazrul Institute & Conference Portals: Developed content management and event
+registration systems for local and international participants
 
 ---
 
 ### 🚀 Key Impact
 
--	Reduced API response time by ~30–50% across production services
--	Improved system throughput by ~25% using asynchronous processing
--	Designed scalable backend systems handling real-world production workloads 
+-	Reduced API response time by ~30–50% across production systems
+- Increased system throughput by ~25% using asynchronous processing
+- Designed scalable backend systems handling real-world production workloads
+- Applied indexing, eager loading, and caching strategies to eliminate performance bottlenecks
+- Designed and optimized relational database schemas for scalability and performance
+- Ensured data consistency and integrity in high-transaction systems 
 
 ---
 
