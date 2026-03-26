@@ -5,57 +5,67 @@
   </a>
 </p>
 
-📧 <a href="mailto:mkrakib328@gmail.com">mkrakib328@gmail.com</a> | 📞 <a href="tel:+8801332995033">+8801332995033</a> | 🌐 <a href="https://www.linkedin.com/in/mehedi-khan-mkr/">LinkedIn</a> | 💻 <a href="https://github.com/rakib8799">GitHub</a> | 📍 Mymensingh, Bangladesh
+📧 <a href="mailto:mkrcoding1998@gmail.com">mkrcoding1998@gmail.com</a> | 📞 <a href="tel:+8801332995033">+8801332995033</a> | 🌐 <a href="https://www.linkedin.com/in/mehedi-khan-mkr/">LinkedIn</a> | 💻 <a href="https://github.com/rakib8799">GitHub</a> | 📍 Mymensingh, Bangladesh
 
 ---
 
 ### 🧠 Professional Summary
 
-Backend Software Engineer with 3+ years of experience in Laravel 12, SaaS, and multi-tenant architectures. Skilled in building scalable, secure applications, designing RESTful APIs, and optimizing backend performance using Redis queues, job batching, and advanced Eloquent queries. Experienced in CI/CD, Docker, and multi-service SaaS systems with a track record of delivering high-performance platforms.
+Backend Engineer with 3+ years of experience building scalable Laravel systems and high-performance APIs handling thousands of daily requests. Skilled in system design, performance optimization, and designing reliable backend services for fintech and SaaS platforms.
 
 ---
 
 ### 🚀 Skills & Technologies
 
-**Backend Development:** PHP, Laravel 12, OOP, MVC, RESTful APIs, Eloquent ORM, Middleware, Queues & Jobs, Laravel Horizon, Spatie Roles & Permissions  
+**Backend:** PHP, Laravel, REST APIs, MVC, Service Layer
 
-**Database & Caching:** MySQL, Redis (caching & queues), Eager & Lazy Loading, Query Optimization, Advanced Eloquent Relationships  
+**Architecture:** Scalable Systems, Multi-Tenant SaaS, API Design 
 
-**Authentication & Security:** Laravel Sanctum, Passport, JWT, OAuth2, Password Policies, Role & Permission management  
+**Database:** MySQL, Redis (Cache, Queue), Query Optimization, Indexing 
 
-**Frontend & Integrations:** Vue 3, React.js, Inertia.js, Tailwind CSS, Bootstrap, Stripe, PayPal, Bkash, Twilio, SendGrid, BulkSMSBD  
+**Security:** JWT, OAuth2, Sanctum, RBAC, Rate Limiting
 
-**DevOps & Workflow:** Docker, Git, GitHub Actions (CI/CD), Jira, Postman  
+**Async Systems:** Queues, Jobs, Event-Driven Processing
+
+**DevOps:** Docker, CI/CD, Git, Linux
+
+**Frontend (Basic):** Bootstrap, Vue.js, React.js, Next.js
 
 ---
 
 ### 💼 Work Experience Highlights
 
-**Software Engineer** | Nonditosoft – Remote | May 2025 – Present  
-- Built multi-tenant SaaS platforms with Laravel 12 and Inertia.js.  
-- Developed secure RESTful APIs with Sanctum, API rate-limiting, and optimized Eloquent queries.  
-- Implemented Redis queues, Job batching, and scheduled tasks, improving throughput by 25%.  
-- Integrated role-based access control and leveraged Laravel 12 enums & advanced query builder.  
+**Backend Software Engineer** — TDevs | Oct 2025 – Present
+- Designed and optimized REST APIs handling ~3K–10K+ daily requests
+- Reduced response time from ~800ms to ~250–350ms using query optimization, indexing, and Redis caching
+- Fixed N+1 query issues and improved database efficiency
+- Implemented queue-based asynchronous processing for heavy tasks (notifications, reports)
+- Improved system performance under increasing traffic using optimized queries and caching strategies
+- Secured APIs using authentication, authorization, and rate limiting
+Projects:
+-	Digibank (Fintech): Built secure transaction logic with validation, consistency checks, and RBAC
+-	Hyiprio: Designed scalable API architecture with optimized data flow
+-	Orvina: Developed loan management features including loan eligibility criteria, circle-based lending, and investment workflows
+-	Trustep: Integrated AI features using asynchronous backend processing
+  
+**Software Engineer** — Nonditosoft | Sep 2024 – Sep 2025
+-	Built multi-tenant SaaS systems with database isolation and scalable architecture
+-	Implemented Redis queues and job batching for background processing
+-	Improved system throughput by ~25% through asynchronous processing
+ 
+**Junior Software Engineer** — Nonditosoft | Aug 2023 – Aug 2024
+-	Worked on production eCommerce system serving real users
+-	Optimized database queries and resolved performance bottlenecks
+-	Improved system stability by reducing unnecessary data processing
 
-**Junior Software Engineer** | Nonditosoft – Remote | Apr 2024 – Apr 2025  
-- Contributed to Magento eCommerce module (BodyByPori).  
-- Assisted in multi-tenant configuration, caching, and performance optimizations.  
-
-**PHP Laravel Intern** | Nonditosoft – Remote | Dec 2023 – Mar 2024  
-- Assisted in backend module development, multi-tenant logic, and third-party integrations.  
-
-**Web Developer (Contract)** | AMCC / AFSBF / JKKNIU – Remote | 2022 – 2024  
-- Delivered dynamic Laravel websites, donation platforms, and conference portals.  
 
 ---
 
-### 🚀 Project Highlights
+### 🚀 Key Impact
 
-- **Muhuri SaaS System:** Multi-service architecture, Redis & Horizon, role-based access, Bkash payments, SMS notifications, multilingual support.  
-- **HRM SaaS System:** Employee attendance, leave management, dashboards, charts, CI/CD workflows.  
-- **BodyByPori Magento eCommerce:** Frontend enhancements, bug fixes, performance optimization.  
-- **Charity Platforms (AFSBF & AMCC):** Secure donation systems with email notifications & payment integrations.  
-- **Nazrul Institute Websites & Conference Portals:** Content management and registration platforms.  
+-	Reduced API response time by ~30–50% across production services
+-	Improved system throughput by ~25% using asynchronous processing
+-	Designed scalable backend systems handling real-world production workloads 
 
 ---
 
