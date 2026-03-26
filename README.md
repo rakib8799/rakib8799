@@ -42,6 +42,7 @@ Backend Engineer with 3+ years of experience building scalable Laravel systems a
 - Implemented queue-based asynchronous processing for heavy tasks (notifications, reports)
 - Improved system performance under increasing traffic using optimized queries and caching strategies
 - Secured APIs using authentication, authorization, and rate limiting
+
 Projects:
 -	Digibank (Fintech): Built secure transaction logic with validation, consistency checks, and RBAC
 -	Hyiprio: Designed scalable API architecture with optimized data flow
